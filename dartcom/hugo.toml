@@ -1,4 +1,0 @@
-baseURL = 'https://dartcom.github.io/'
-languageCode = 'en-us'
-title = 'Dartcom'
-theme = 'smol'
