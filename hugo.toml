@@ -1,4 +1,4 @@
-baseURL = 'https://dartcom.xyz/'
+baseURL = 'https://dartcom.github.io/'
 languageCode = 'en-us'
 title = 'Dartcoms lair'
 theme = 'smol'
