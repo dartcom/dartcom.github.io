@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<style type=text/css>body{font-family:monospace;}</style>
+	<title>What makes a FPV goggle tick?</title>
+	
+	
+	<link rel="stylesheet" href="/css/style.css">
+	
+	
+</head>
+<body>
+	<header>
+	===================<br>
+	== <a href="http://localhost:1313/">Dartcoms lair</a> ==<br>
+	===================
+	<div style="float: right;">A website for all things dartcom!</div><br>
+	<p>
+	<nav>
+			<a href="/"><b>Start</b></a>.
+			
+			
+			<a href="/posts/"><b>Posts</b></a>.
+			
+			<a href="/categories/"><b>Categories</b></a>.
+			
+			<a href="/tags/"><b>Tags</b></a>.
+			
+			<a href="/about/"><b>About</b></a>.
+			
+	</nav>
+	</p>
+	
+</header>
+
+	
+	<main>
+		<article>
+			<h1>What makes a FPV goggle tick?</h1>
+			<b><time>26.04.2024 20:02</time></b>
+		       
+		           <a href="/tags/hardware">hardware</a>
+        	       
+		           <a href="/tags/fpv">FPV</a>
+        	       
+
+			<div>
+				<p>Ever since I started flying FPV drones back in 2018 the one thing that bothered me, was how our FPV goggles were the only thing that the FPV community treated as a black box. We buy a pair of them, we do our thing and thats it! Maybe a DVR mod or power switch mod here and there and not much more!</p>
+<p>In 2021 during the lockdown I didn&rsquo;t have anything better to do, so I started investigating what makes these goggles tick and how could I design a pair. After looking at many teardowns of both FPV and VR headsets I found that the entire headset design revolves around the displays. For FPV headsets there exist two categories:</p>
+<ul>
+<li>
+<p>slim goggles containing two microdisplays and pancake optics. While these are the most light-weight option, they have a high cost, with the bulk of it being the microdisplays. A well designed headset of this category is the Orqa v1/v2 by Orqa FPV.</p>
+</li>
+<li>
+<p>box goggles. Usually they come with a single 4-5 inch display and a fresnel lens. They are big and cumbersome, but they are also cheap and can acommodate pilots with bad eyesight by having the space for glasses. A well designed headset of this category, is the eachine/skyzone cobra goggles.</p>
+</li>
+</ul>
+<p>Actually I kinda lied, some headsets belong in neither of those categories. Headsets like the DJI FPV goggles v1/v2, Topsky prime 1s/2s, SJ RG01 contain two small displays and simpler fresnel lenses. They combine a relatively smaller frame with the big FOV that box goggles offer.</p>
+<ul>
+<li>The DJI goggles are typically well received. They use two 2.5&rsquo; displays and they crop them in order to simulate a 1&rsquo; display, in order to bring the FOV to a managable level. Their main disadvantage is that they work well only with the first gen DJI FPV system. They lack HDMI inputs and</li>
+<li>The same cannot be said about the topsky and SJ headsets. They both lack the same thing, high resolution displays, and this is the reason why they both didn&rsquo;t succeed commercially.</li>
+</ul>
+<p>What if I could combine these 3 headsets?</p>
+<p>What if I could make a headset with high resolution cropped displays like the DJI v1, while having the form factor of the Topsky prime?</p>
+<p>After some digging in Aliexpress I found some cheap VR display kits. These contain 2 displays, a gerneric driver board and a specialized board to bridge the displays to the driver board. These kits are not what I want. My requirements for the electronics are:</p>
+<ul>
+<li>analog video input</li>
+<li>hdmi video input</li>
+<li>the ability to scale down the display, to simulate a smaller one</li>
+<li>OSD and menu support</li>
+</ul>
+<p>So far I have not found any kits that come close to implement these requirements. This means that I will have to design my own video processing system and display driver.</p>
+
+			</div>
+		</article>
+	</main>
+<aside>
+	<div>
+		<div>
+			<h3>LATEST POSTS</h3>
+		</div>
+		<div>
+			<ul>
+				
+				<li><a href="/posts/2024-04-26-what-makes-a-fpv-goggle-tick/">What makes a FPV goggle tick?</a></li>
+				
+			</ul>
+		</div>
+	</div>
+</aside>
+
+
+	<footer>
+	<p>&copy; 2024 <a href="http://localhost:1313/"><b>Dartcoms lair</b></a>.
+	<a href="https://github.com/dartcom"><b>Github</b></a>.
+	<a href="https://youtube.com/@kwstakyc"><b>Youtube</b></a>.
+	</p>
+</footer>
+
+</body>
+</html>

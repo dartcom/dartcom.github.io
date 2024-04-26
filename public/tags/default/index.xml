@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Default on Dartcoms lair</title>
+    <link>http://localhost:1313/tags/default/</link>
+    <description>Recent content in Default on Dartcoms lair</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Apr 2024 19:51:31 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/default/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>26 04 2024 Mipi Display</title>
+      <link>http://localhost:1313/posts/26-04-2024-mipi-display/2024-04-26-26-04-2024-mipi-display/</link>
+      <pubDate>Fri, 26 Apr 2024 19:51:31 +0300</pubDate>
+      <guid>http://localhost:1313/posts/26-04-2024-mipi-display/2024-04-26-26-04-2024-mipi-display/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

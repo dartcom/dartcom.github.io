@@ -1,4 +1,47 @@
-baseURL = 'https://dartcom.github.io/'
+baseURL = 'https://dartcom.xyz/'
 languageCode = 'en-us'
 title = 'Dartcoms lair'
 theme = 'smol'
+
+# Parameters
+[params]
+    subtitle = "A website for all things dartcom!"
+    dateFmt = "02.01.2006 15:04"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "categories"
+        name = "Categories"
+        url = "/categories/"
+        weight = 2 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags/"
+        weight = 3
+    
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 4
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/dartcom"
+        weight = 1 
+
+    [[menu.footer]]
+        name = "Youtube"
+        url = "https://youtube.com/@kwstakyc"
+        weight = 2 
+
