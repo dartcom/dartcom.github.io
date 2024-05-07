@@ -5,12 +5,12 @@ slug: Αthens-memories-pt1
 type: posts
 draft: false
 categories:
-  - photos
+  - pics
 tags:
-  - photos
+  - pics
 ---
 
-  A collection of concrete jungle photos.
+  A collection of concrete jungle photos in Athens.
 
   ![_](/images/Athens-memories-pt1/05-02-1.jpg)
 
