@@ -10,10 +10,10 @@
     <atom:link href="http://localhost:1313/categories/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Athens Memories Pt1</title>
-      <link>http://localhost:1313/posts/2024-05-07-05-05-2024-athens-memories-pt1/</link>
+      <link>http://localhost:1313/posts/%CE%B1thens-memories-pt1/</link>
       <pubDate>Tue, 07 May 2024 00:03:31 +0300</pubDate>
-      <guid>http://localhost:1313/posts/2024-05-07-05-05-2024-athens-memories-pt1/</guid>
-      <description> </description>
+      <guid>http://localhost:1313/posts/%CE%B1thens-memories-pt1/</guid>
+      <description>A collection of concrete jungle photos.</description>
     </item>
   </channel>
 </rss>
