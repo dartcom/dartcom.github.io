@@ -1,7 +1,7 @@
 ---
 title: "Athens Memories Pt1"
 date: 2024-05-07T00:03:31+03:00
-slug: Αthens-memories-pt1
+slug: Athens-memories-pt1
 type: posts
 draft: false
 categories:
