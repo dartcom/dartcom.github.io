@@ -3,7 +3,7 @@ title: "Firing Up the Display"
 date: 2024-05-27T13:30:15+03:00
 slug: 2024-05-27-firing-up-the-display
 type: posts
-draft: false
+draft: true
 categories:
   - hardware
   - FPV
