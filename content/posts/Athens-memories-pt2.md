@@ -31,7 +31,7 @@ tags:
 
   ![_](/images/Athens-memories-pt2/05-12-1.jpg)
 
-   ![_](/images/Athens-memories-pt2/05-12-2.jpg)
+  ![_](/images/Athens-memories-pt2/05-12-2.jpg)
   
   ![_](/images/Athens-memories-pt2/05-12-3.jpg)
   
@@ -77,4 +77,4 @@ tags:
   
 
 
-  And then he left.
+  ![And then he left.]()

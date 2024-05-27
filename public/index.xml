@@ -6,14 +6,21 @@
     <description>Recent content on Dartcoms lair</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2024 00:29:05 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 13:30:15 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firing Up the Display</title>
+      <link>http://localhost:1313/posts/2024-05-27-firing-up-the-display/</link>
+      <pubDate>Mon, 27 May 2024 13:30:15 +0300</pubDate>
+      <guid>http://localhost:1313/posts/2024-05-27-firing-up-the-display/</guid>
+      <description>Continuing on the first post, we are going to tackle the first part of this project, the displays.&#xA;The display As mentioned before, I settled for the VS035ZSM panel by BOE. While there are panels out there that fit better to what I want to achieve, this will do for now. Its specs are:&#xA;resolution: 1440 * 1600 size: 3.5&#39; input: Dual MIPI DSI framerate: 90 fps color depth: 8-bit driver ic: NT57860 Getting the datasheets Unfortunately, both, display datasheet and MIPI protocol datasheets require an NDA.</description>
+    </item>
     <item>
       <title>Athens Memories Pt2</title>
       <link>http://localhost:1313/posts/2024-05-27-athens-memories-pt2/</link>
       <pubDate>Mon, 27 May 2024 00:29:05 +0300</pubDate>
       <guid>http://localhost:1313/posts/2024-05-27-athens-memories-pt2/</guid>
-      <description>40% increased greenery!&#xA;And then he left.</description>
+      <description>40% increased greenery!</description>
     </item>
     <item>
       <title>Athens Memories Pt1</title>
@@ -34,7 +41,7 @@
       <link>http://localhost:1313/posts/making-an-fpv-goggle-tick/</link>
       <pubDate>Fri, 26 Apr 2024 20:02:01 +0300</pubDate>
       <guid>http://localhost:1313/posts/making-an-fpv-goggle-tick/</guid>
-      <description>The inspiration Ever since I started flying FPV drones back in 2018 the one thing that bothered me, was how our FPV goggles were the only thing that the FPV community treated as a black box. We buy a pair of them, we do our thing and that&amp;rsquo;s it! Maybe a DVR mod or power switch mod here and there and not much more!&#xA;In 2021 during the lockdown I didn&amp;rsquo;t have anything better to do, so I started investigating what makes these goggles tick and how could I design a pair.</description>
+      <description>Ever since I started flying FPV drones back in 2018 the one thing that bothered me, was how our FPV goggles were the only thing that the FPV community treated as a black box. We buy a pair of them, we do our thing and that&amp;rsquo;s it! Maybe a DVR mod or power switch mod here and there and not much more!&#xA;In 2021 during the lockdown I didn&amp;rsquo;t have anything better to do, so I started investigating what makes these goggles tick and how could I design a pair.</description>
     </item>
   </channel>
 </rss>
