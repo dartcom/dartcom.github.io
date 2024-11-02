@@ -1,7 +1,7 @@
 ---
 title: "Firing Up the Display"
-date: 2024-05-27T13:30:15+03:00
-slug: 2024-05-27-firing-up-the-display
+date: 2024-08-18T13:30:15+03:00
+slug: 2024-08-18-firing-up-the-display
 type: posts
 draft: false
 categories:
@@ -79,11 +79,11 @@ The BOE display running @60 fps with the ssd2828 test pattern.
 
 # Partial mode
 
-For my application, only a portion of the screen is needed. At first I was considering of friving the entire display and adding borders horizontally and vertically to simulate a smaller screen. After some digging I found that the MIPI specification offers a partial mode, where only a portion of the framebuffer is updated. This way processing power and bandwith can be reduced. 
+For my application, only a portion of the screen is needed. At first I was considering of driving the entire display and adding borders horizontally and vertically to simulate a smaller screen. After some digging I found that the MIPI specification offers a partial mode, where only a portion of the framebuffer is updated. This way, processing power and bandwith can be reduced. 
 
 ![_](/images/Firing-up-the-display/10.jpg)
 
-Unfortunately, this feature is not implemented correctly on the NT57860 display driver. While this mode works for cropping the framebuffer vertically(letterboxing) it does not work correctly for cropping horizontally(pillarboxing). In the above image an FPGA produces a pattern with black and white vertical stripes. Due to the bad implementation of the horizontal crop, the image gets shifted. Still this issue can be solved by disabling horizontal cropping, and making the FPGA add black bars on the left and right part of the video, to give the illusion of this feature working properly. 
+Unfortunately, this mode is not implemented correctly on the NT57860 display driver. While this mode works for cropping the framebuffer vertically(letterboxing) it does not work correctly for cropping horizontally(pillarboxing). In the above image an FPGA produces a pattern with black and white vertical stripes. Due to the bad implementation of the horizontal crop, the image gets shifted. Still this issue can be solved by disabling horizontal cropping, and making the FPGA add black bars on the left and right part of the video, to give the illusion of this feature working properly. 
 
 Even with this setback, the bandwidth gained by a smaller image should allow for higher framerates to be achieved. The screen can handle up to 90 fps.
 

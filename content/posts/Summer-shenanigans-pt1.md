@@ -17,7 +17,7 @@ tags:
 
   ![_](/images/Summer-shenanigans-pt1/5-24_3.jpg)
 
-  ![_]()
+  
 
   ![_](/images/Summer-shenanigans-pt1/6-15_3.jpg)
  
@@ -35,7 +35,7 @@ tags:
 
   ![_](/images/Summer-shenanigans-pt1/6-15_12.jpg)
 
-  ![_]()
+  
 
   ![_](/images/Summer-shenanigans-pt1/6-21_1.jpg)
 
@@ -53,7 +53,7 @@ tags:
 
   ![_](/images/Summer-shenanigans-pt1/6-21_8.jpg)
 
-  ![_]()
+  
 
   ![_](/images/Summer-shenanigans-pt1/6-28_1.jpg)
 
@@ -61,7 +61,7 @@ tags:
 
   ![_](/images/Summer-shenanigans-pt1/6-28_3.jpg)
 
-  ![_]()
+  
 
   ![_](/images/Summer-shenanigans-pt1/7-06_2.jpg)
 
