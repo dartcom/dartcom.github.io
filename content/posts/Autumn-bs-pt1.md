@@ -13,7 +13,7 @@ tags:
 
 ![_](/images/Autumn-bs-pt1/09-03-1.jpg)
 
-
+-
 
 ![_](/images/Autumn-bs-pt1/09-27-1.jpg)
 
@@ -23,7 +23,7 @@ tags:
 
 ![_](/images/Autumn-bs-pt1/09-28-4.jpg)
 
-
+-
 
 ![_](/images/Autumn-bs-pt1/10-06-1.jpg)
 
@@ -32,11 +32,12 @@ tags:
 ![_](/images/Autumn-bs-pt1/10-06-3.jpg)
 
 
+
 ![_](/images/Autumn-bs-pt1/10-06-5.jpg)
 
 ![_](/images/Autumn-bs-pt1/10-06-4.jpg)
 
-
+-
 
 ![_](/images/Autumn-bs-pt1/10-06-6.jpg)
 
@@ -52,6 +53,7 @@ tags:
 
 ![_](/images/Autumn-bs-pt1/10-06-12.jpg)
 
+-
 
 ![_](/images/Autumn-bs-pt1/10-21-1.jpg)
 
@@ -59,7 +61,7 @@ tags:
 
 ![_](/images/Autumn-bs-pt1/10-21-3.jpg)
 
-
+-
 
 ![_](/images/Autumn-bs-pt1/10-28-1.jpg)
 

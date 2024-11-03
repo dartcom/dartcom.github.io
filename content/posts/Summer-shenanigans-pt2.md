@@ -40,19 +40,19 @@ tags:
 
   ![_](/images/Summer-shenanigans-pt2/7-11_11.jpg)
 
-  
+  -
 
   ![_](/images/Summer-shenanigans-pt2/7-13_1.jpg)
  
   ![_](/images/Summer-shenanigans-pt2/7-13_2.jpg)
 
-
+  -
 
   ![_](/images/Summer-shenanigans-pt2/7-21_1.jpg)
  
   ![_](/images/Summer-shenanigans-pt2/7-21_2.jpg)
 
-  
+  -
 
   ![_](/images/Summer-shenanigans-pt2/7-22_1.jpg)
  
@@ -60,7 +60,7 @@ tags:
 
   ![_](/images/Summer-shenanigans-pt2/7-22_3.jpg)
 
-  
+  -
 
   ![_](/images/Summer-shenanigans-pt2/7-27_1.jpg)
  
@@ -72,7 +72,7 @@ tags:
  
   ![_](/images/Summer-shenanigans-pt2/7-27_5.jpg)
 
-  
+  -
 
   ![_](/images/Summer-shenanigans-pt2/7-28_1.jpg)
 
@@ -82,7 +82,7 @@ tags:
 
   ![_](/images/Summer-shenanigans-pt2/7-28_4.jpg)
 
-  
+  -
 
   ![_](/images/Summer-shenanigans-pt2/8-11_1.jpg)
 
