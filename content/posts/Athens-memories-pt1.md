@@ -30,7 +30,9 @@ tags:
 
   ![](/images/Athens-memories-pt1/05-02-9.jpg)  
 
-  _
+
+
+
 
   ![](/images/Athens-memories-pt1/05-03-1.jpg)
 
@@ -56,7 +58,9 @@ tags:
 
   ![](/images/Athens-memories-pt1/05-03-12.jpg)  
 
-  _
+
+
+
 
   ![](/images/Athens-memories-pt1/05-05-1.jpg)
 
@@ -72,6 +76,8 @@ tags:
 
   ![](/images/Athens-memories-pt1/05-05-7.jpg)   
 
-  _
+
+
+
 
   ![](/images/Athens-memories-pt1/05-06-1.jpg)
