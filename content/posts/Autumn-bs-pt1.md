@@ -3,7 +3,7 @@ title: "Autumn Bs Pt1"
 date: 2024-12-01T12:53:25+02:00
 slug: 2024-12-01-autumn-bs-pt1
 type: posts
-draft: true
+draft: false
 categories:
   - pics
 tags:
