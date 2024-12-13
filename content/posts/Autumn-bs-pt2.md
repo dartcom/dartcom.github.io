@@ -1,7 +1,7 @@
 ---
 title: "Autumn Bs Pt2"
-date: 2024-12-01T20:53:25+02:00
-slug: 2024-12-01-autumn-bs-pt2
+date: 2024-12-13T17:10:25+02:00
+slug: 2024-12-13-autumn-bs-pt2
 type: posts
 draft: false
 categories:
