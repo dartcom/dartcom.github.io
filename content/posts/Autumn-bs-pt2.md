@@ -53,6 +53,8 @@ A month spent roaming Athens. Time well spent.
 
 ![](/images/Autumn-bs-pt2/11-10-3.jpg)
 
+![](/images/Autumn-bs-pt2/11-10-4.jpg)
+
 
 ![](/images/Autumn-bs-pt2/11-16-1.jpg)
 
