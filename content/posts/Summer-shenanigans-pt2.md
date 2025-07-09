@@ -13,7 +13,7 @@ tags:
 
 
   ![](/images/Summer-shenanigans-pt2/7-11_1.jpg)
-
+  <!--more-->
   ![](/images/Summer-shenanigans-pt2/7-11_14.jpg)
 
   ![](/images/Summer-shenanigans-pt2/7-11_2.jpg)

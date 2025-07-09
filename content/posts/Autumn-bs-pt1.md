@@ -12,7 +12,7 @@ tags:
 
 
 ![](/images/Autumn-bs-pt1/09-03-1.jpg)
-
+<!--more-->
 
 
 

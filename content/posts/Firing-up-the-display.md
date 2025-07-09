@@ -16,6 +16,8 @@ Continuing on the [first post](/posts/making-an-fpv-goggle-tick/), we are going 
 
 ![](/images/Firing-up-the-display/3.jpg)
 
+<!--more-->
+
 # The display
 
 As mentioned before, I settled for the VS035ZSM panel by BOE. While there are panels out there that fit better to what I want to achieve, this will do for now. Its specs are:

@@ -12,7 +12,7 @@ tags:
 A month spent roaming Athens. Time well spent.
 
 ![](/images/Autumn-bs-pt2/10-30-1.jpg)
-
+<!--more--> 
 
 ![](/images/Autumn-bs-pt2/11-03-1.jpg)
 
