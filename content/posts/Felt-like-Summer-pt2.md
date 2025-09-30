@@ -5,9 +5,9 @@ slug: 2025-09-30-felt-like-summer-pt2
 type: posts
 draft: false
 categories:
-  - default
+  - pics
 tags:
-  - default
+  - pics
 ---
 
   ![](/images/Felt-like-Summer-pt2/07-26_2.jpg)
