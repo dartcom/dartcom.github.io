@@ -102,4 +102,4 @@ tags:
   ![](/images/Felt-like-Summer-pt1/07-22_3.jpg)
 
 
-  How could he know, that he had't tasted true Summer yet.
+  Little did he know, that he hadn't had a true Summer yet.
